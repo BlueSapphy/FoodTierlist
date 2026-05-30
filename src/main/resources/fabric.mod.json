@@ -3,7 +3,7 @@
 	"id": "foodtierlist",
 	"version": "${version}",
 	"name": "Food Tierlist",
-	"description": "A mod that attempts to balance minecraft's food system.",
+	"description": "Rebalances Minecraft's food economy by separating foods into \"tiers\" based on complexity and player interaction..",
 	"authors": [
 		"BlueSapphy"
 	],

@@ -3,7 +3,7 @@
 	"package": "net.bluesapphy.foodtierlist.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"VillagerTradesMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
